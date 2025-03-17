@@ -6,21 +6,21 @@ banner:
   image: "/images/banner.png"
   button:
     enable: true
-    label: "FREE LIFE"
-    link: "#"
+    label: "List"
+    link: "/blog"
 
 # Features
 features:
-  - title: ""
-    image: "/images/service-1.png"
-    content: ""
-    bulletpoints:
-      - "10+ Pre-build pages"
+  # - title: ""
+  #   image: "/images/service-1.png"
+  #   content: ""
+  #   bulletpoints:
+  #     - "10+ Pre-build pages"
 
-    button:
-      enable: false
-      label: "Get Started Now"
-      link: "#"
+  #   button:
+  #     enable: false
+  #     label: "Get Started Now"
+  #     link: "#"
 
   # - title: "Discover the Key Features Of Hugo"
   #   image: "/images/service-2.png"
