@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "List"
-    link: "/posts"
+    link: "/blog"
 
 # Features
 features:
