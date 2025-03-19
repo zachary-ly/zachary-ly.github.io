@@ -57,3 +57,6 @@ code {
 blockquote > p {
   @apply !my-0;
 }
+code > span {
+  color:bisque;
+}
